@@ -1,8 +1,11 @@
 # slot-D-C-programming-
 
 QUESTION-1
-#include <stdio.h>
-#include <stdbool.h>
+
+
+
+#include<stdio.h>
+#include<stdbool.h>
 
 int main() {
     float distance, fare = 100;
